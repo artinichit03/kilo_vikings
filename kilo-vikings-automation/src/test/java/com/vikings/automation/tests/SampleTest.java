@@ -8,5 +8,6 @@ public class SampleTest {
     @Test
     public void testAddition() {
         assertEquals(2, 1 + 1, "Basic addition should work.");
+        System.out.println("Hello");
     }
 }
