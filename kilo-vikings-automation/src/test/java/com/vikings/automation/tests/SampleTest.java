@@ -9,5 +9,6 @@ public class SampleTest {
     public void testAddition() {
         assertEquals(2, 1 + 1, "Basic addition should work.");
         System.out.println("Hello");
+        System.out.println("Hello");
     }
 }
